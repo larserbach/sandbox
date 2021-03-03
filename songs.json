@@ -1,7 +1,11 @@
 [  
    {  
       "album":"The King of Shrimpsies",
-      "artist":"Shipkid",
+      "artist":
+         {
+            "name":"Shipkid",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/294e0d38570249.Y3JvcCw4NjAsNjcyLDQxLDI5.jpg"
+         },
       "songs":[  
          {  
             "title":"Bloom",
